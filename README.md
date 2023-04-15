@@ -1,4 +1,6 @@
-# Mamba
+Mamba A custom programming language made because there isn't enouth languages already!
+
+
 A Better* Rip-off of my friends project "Cobra", itself being based of Python
 
 Its Fully open source and not hidden in a .exe file 
