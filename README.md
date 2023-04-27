@@ -1,18 +1,9 @@
 Mamba A custom programming language made because there isn't enouth languages already!
 
 
-A Better* Rip-off of my friends project "Cobra", itself being based of Python
+A Rip-off of my friends project "Cobra"
 
-Its Fully open source and not hidden in a .exe file 
+Its Fully open source, When I can be asked to upload it
 
-:)
-
-
-Common Q & A:
-
-Why use Mamba?
-Its better than Cobra
-
-
-Why is it called Mamba?
-Had to stick with the theme of naming it after snakes (Python, Cobra, Mamba)
+This Project Was Inspired by Cobra and so Is its syntax, It is in no way connected to cobra,
+It is just a fun project for me. Cobra was in existence waybefore mamba was even started, let alone coded
